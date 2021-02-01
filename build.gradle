@@ -2,7 +2,7 @@ apply plugin: 'java'
 apply plugin: 'com.github.dcendents.android-maven'
 
 
-group 'com.github.pai01234'
+group 'com.github.ashuragod'
 version '0.0.20'
 
 sourceCompatibility = 1.8
